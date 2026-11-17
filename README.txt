@@ -1,8 +1,5 @@
 Project: File Auditor & Backup Tool
 
-Student Name: Amir Waleed Elsayed
-Student ID: 2306100
-
 Project Description:
 A Bash program for scanning files, checking permissions,
 reporting extensions, searching files, creating backups,
